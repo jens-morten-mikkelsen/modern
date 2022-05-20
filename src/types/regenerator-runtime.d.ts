@@ -1,0 +1,1 @@
+module 'regenerator-runtime/runtime';
